@@ -60,7 +60,7 @@ In order to use the DNA Center API, we need to obtain a DNA Center API Token. Th
     ```
     An example of these details can be obtained from the DevNet sandbox and are as follows:
 
-    * **Url/dnac_host:** `https://sandboxdnac2.cisco.com/`
+    * **Url/dnac_host:** `https://sandboxdnac2.cisco.com`
     * **Username:** `devnetuser`
     * **Password:** `Cisco123!` 
 
